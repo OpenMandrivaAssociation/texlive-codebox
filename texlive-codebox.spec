@@ -1,6 +1,6 @@
 Name:		texlive-codebox
 Version:	61771
-Release:	1
+Release:	2
 Summary:	Highlighted source code in a fancy box
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/codebox
